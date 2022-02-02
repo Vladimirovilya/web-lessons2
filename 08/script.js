@@ -11,3 +11,22 @@ function convert() {
     alert(`${Celsiy} градусів = ${ounces.toFixed(2)} Кельвін`);
     
 }
+
+
+
+function square()
+ {
+ 
+    let x = prompt('Введіть квадратний корінь :');
+    if(x>0)
+    {
+        alert(Math.sqrt(x));
+    }
+    else 
+    {
+    alert ("помилка")
+    }
+    
+    
+
+}
