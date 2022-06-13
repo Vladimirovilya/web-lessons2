@@ -1,0 +1,45 @@
+.temp 
+{                         
+    width: 200px;
+    height: 300px;
+}
+ .temp
+ {
+    border:3px dotted green;
+    outline-color: green;
+    border-radius:10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top:    50px;
+    border-bottom: 50px;
+    box-shadow: 5px 5px 20px green;
+    border-radius: 5%;
+ }
+
+.first 
+{
+
+    background:green;
+    color: black;
+    box-shadow: 10px 5px 20px green;
+    margin-bottom: 30px;
+}
+
+.p1 
+{
+    padding-left: 30px;
+    border-bottom: 50px;
+}
+
+
+.p3 
+{
+    padding-left: 30px;
+    
+}
+
+.first:hover 
+{
+    background-color: rgb(17, 2, 20);
+    color : rgb(0, 247, 132);
+}
